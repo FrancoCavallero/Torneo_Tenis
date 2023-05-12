@@ -3,6 +3,8 @@ usuario ingresar los datos del partido (jugadores, nombre del torneo, etc) y con
 estos debe ejecutar punto por punto el transcurso del partido hasta llegar a su fin.
 El programa deberá tener en cuenta la puntuación y reglas
 utilizadas en este deporte.
+
+
 Funcionalidades
 Antes de comenzar la simulación, el usuario podrá ingresar los
 siguientes datos:
